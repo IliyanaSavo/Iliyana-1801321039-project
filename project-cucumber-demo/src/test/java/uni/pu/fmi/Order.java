@@ -47,4 +47,9 @@ public class Order {
         this.book=books;
     }
 
+	public void clickOrder(Order order) {
+		// TODO Auto-generated method stub
+		this.clickOrder(order);
+	}
+
 }
